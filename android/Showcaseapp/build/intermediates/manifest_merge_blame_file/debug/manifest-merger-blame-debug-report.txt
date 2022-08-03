@@ -1,0 +1,315 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.movesense.showcaseapp"
+4    android:versionCode="1"
+5    android:versionName="1.9.13" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:5-79
+11-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:5-79
+13-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:5-79
+14-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:22-76
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:5-79
+15-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:22-76
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:11:5-80
+16-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:12:5-79
+17-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:12:22-77
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:13:5-66
+18-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:13:22-64
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:5-79
+19-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:6:22-76
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:15:5-80
+20-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:15:22-78
+21    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+21-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:16:5-70
+21-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:16:22-68
+22    <uses-permission android:name="android.permission.BLUETOOTH" />
+22-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:17:5-67
+22-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:17:22-65
+23    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+23-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:18:5-19:47
+23-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:18:22-72
+24    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+24-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:20:5-76
+24-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:20:22-74
+25
+26    <uses-feature
+26-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:22:5-24:34
+27        android:name="android.hardware.bluetooth_le"
+27-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:23:9-53
+28        android:required="true" />
+28-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:24:9-32
+29
+30    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+30-->[no.nordicsemi.android:dfu:1.10.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/5806c1d3fde325309d281e85904dc3ef/dfu-1.10.0/AndroidManifest.xml:12:5-74
+30-->[no.nordicsemi.android:dfu:1.10.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/5806c1d3fde325309d281e85904dc3ef/dfu-1.10.0/AndroidManifest.xml:12:22-71
+31
+32    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+32-->[com.polidea.rxandroidble2:rxandroidble:1.10.2] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/9d290eee277066af3ee8eac0918cf96e/rxandroidble-1.10.2/AndroidManifest.xml:14:5-88
+32-->[com.polidea.rxandroidble2:rxandroidble:1.10.2] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/9d290eee277066af3ee8eac0918cf96e/rxandroidble-1.10.2/AndroidManifest.xml:14:29-85
+33
+34    <application
+34-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:26:5-136:19
+35        android:name="com.movesense.showcaseapp.SampleApp"
+35-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:27:9-34
+36        android:allowBackup="true"
+36-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:28:9-35
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.3.0-alpha01] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/ffb66abad4c251fa91912bdcea2c857b/core-1.3.0-alpha01/AndroidManifest.xml:24:18-86
+38        android:debuggable="true"
+39        android:icon="@mipmap/ic_windsurfer"
+39-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:29:9-45
+40        android:label="@string/app_name"
+40-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:30:9-41
+41        android:textDirection="ltr"
+41-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:31:9-36
+42        android:theme="@style/AppTheme" >
+42-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:32:9-40
+43        <activity
+43-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:33:9-36:51
+44            android:name="com.movesense.showcaseapp.section_01_movesense.tests.LedTestActivity"
+44-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:35:13-71
+45            android:screenOrientation="portrait" />
+45-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:36:13-49
+46        <activity
+46-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:37:9-39:51
+47            android:name="com.movesense.showcaseapp.section_01_movesense.tests.LinearAccelerationTestActivity"
+47-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:38:13-86
+48            android:screenOrientation="portrait" />
+48-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:39:13-49
+49        <activity
+49-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:40:9-42:51
+50            android:name="com.movesense.showcaseapp.section_01_movesense.tests.HeartRateTestActivity"
+50-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:41:13-77
+51            android:screenOrientation="portrait" />
+51-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:42:13-49
+52        <activity
+52-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:43:9-45:51
+53            android:name="com.movesense.showcaseapp.section_01_movesense.tests.TemperatureTestActivity"
+53-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:44:13-79
+54            android:screenOrientation="portrait" />
+54-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:45:13-49
+55        <activity
+55-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:46:9-48:51
+56            android:name="com.movesense.showcaseapp.section_01_movesense.tests.AngularVelocityActivity"
+56-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:47:13-79
+57            android:screenOrientation="portrait" />
+57-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:48:13-49
+58        <activity
+58-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:49:9-51:51
+59            android:name="com.movesense.showcaseapp.section_01_movesense.tests.MultiSubscribeActivity"
+59-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:50:13-78
+60            android:screenOrientation="portrait" />
+60-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:51:13-49
+61        <activity
+61-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:52:9-54:51
+62            android:name="com.movesense.showcaseapp.google_drive.SendLogsToGoogleDriveActivity"
+62-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:53:13-71
+63            android:screenOrientation="portrait" />
+63-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:54:13-49
+64
+65        <provider
+66            android:name="androidx.core.content.FileProvider"
+66-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:57:13-62
+67            android:authorities="com.movesense.showcaseapp"
+67-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:58:13-51
+68            android:exported="false"
+68-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:59:13-37
+69            android:grantUriPermissions="true" >
+69-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:60:13-47
+70            <meta-data
+70-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:61:13-63:62
+71                android:name="android.support.FILE_PROVIDER_PATHS"
+71-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:62:17-67
+72                android:resource="@xml/file_provider_paths" />
+72-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:63:17-60
+73        </provider>
+74
+75        <service
+75-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:66:9-69:38
+76            android:name="com.movesense.showcaseapp.section_03_dfu.DfuService"
+76-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:67:13-54
+77            android:enabled="true"
+77-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:68:13-35
+78            android:exported="true" />
+78-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:69:13-36
+79
+80        <receiver
+80-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:71:9-78:20
+81            android:name="com.movesense.showcaseapp.adb.AdbBridge"
+81-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:72:13-42
+82            android:enabled="true"
+82-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:73:13-35
+83            android:exported="true" >
+83-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:74:13-36
+84            <intent-filter>
+84-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:75:13-77:29
+85                <action android:name="android.intent.action.MOVESENSE" />
+85-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:76:17-73
+85-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:76:25-71
+86            </intent-filter>
+87        </receiver>
+88
+89        <activity
+89-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:80:9-90:20
+90            android:name="com.movesense.showcaseapp.section_00_mainView.MainViewActivity"
+90-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:81:13-65
+91            android:exported="true"
+91-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:83:13-36
+92            android:screenOrientation="portrait" >
+92-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:82:13-49
+93            <intent-filter>
+93-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:84:13-89:29
+94                <action android:name="android.intent.action.MAIN" />
+94-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:85:17-68
+94-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:85:25-66
+95                <action android:name="android.intent.action.MY_ACTION" />
+95-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:86:17-73
+95-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:86:25-71
+96
+97                <category android:name="android.intent.category.LAUNCHER" />
+97-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:88:17-76
+97-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:88:27-74
+98            </intent-filter>
+99        </activity>
+100        <activity
+100-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:91:9-93:51
+101            android:name="com.movesense.showcaseapp.section_01_movesense.MovesenseActivity"
+101-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:92:13-67
+102            android:screenOrientation="portrait" />
+102-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:93:13-49
+103        <activity
+103-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:94:9-96:51
+104            android:name="com.movesense.showcaseapp.section_02_multi_connection.connection.MultiConnectionActivity"
+104-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:95:13-91
+105            android:screenOrientation="portrait" />
+105-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:96:13-49
+106        <activity
+106-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:97:9-99:51
+107            android:name="com.movesense.showcaseapp.section_04_saved_data.SavedDataActivity"
+107-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:98:13-68
+108            android:screenOrientation="portrait" />
+108-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:99:13-49
+109        <activity
+109-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:100:9-102:51
+110            android:name="com.movesense.showcaseapp.section_06_about.AboutActivity"
+110-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:101:13-59
+111            android:screenOrientation="portrait" />
+111-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:102:13-49
+112        <activity
+112-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:103:9-106:20
+113            android:name="com.movesense.showcaseapp.section_01_movesense.sensors.sensors_list.SensorListActivity"
+113-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:104:13-89
+114            android:screenOrientation="portrait" >
+114-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:105:13-49
+115        </activity>
+116        <activity
+116-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:107:9-110:20
+117            android:name="com.movesense.showcaseapp.section_03_dfu.DfuActivity2"
+117-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:108:13-56
+118            android:screenOrientation="portrait" >
+118-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:109:13-49
+119        </activity>
+120        <activity
+120-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:111:9-114:20
+121            android:name="com.movesense.showcaseapp.section_02_multi_connection.sensor_usage.MultiSensorUsageActivity"
+121-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:112:13-94
+122            android:screenOrientation="portrait" >
+122-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:113:13-49
+123        </activity>
+124        <activity
+124-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:116:9-119:20
+125            android:name="com.movesense.showcaseapp.section_01_movesense.tests.BatteryActivity"
+125-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:117:13-71
+126            android:screenOrientation="portrait" >
+126-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:118:13-49
+127        </activity>
+128
+129        <receiver
+129-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:121:9-128:20
+130            android:name="com.movesense.showcaseapp.bluetooth.BluetoothStatusReceiver"
+130-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:122:13-62
+131            android:enabled="true"
+131-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:123:13-35
+132            android:exported="false" >
+132-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:124:13-37
+133            <intent-filter>
+133-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:125:13-127:29
+134                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED" />
+134-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:126:17-88
+134-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:126:25-86
+135            </intent-filter>
+136        </receiver>
+137
+138        <activity
+138-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:130:9-133:20
+139            android:name="com.movesense.showcaseapp.section_01_movesense.device_settings.DeviceSettingsActivity"
+139-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:131:13-88
+140            android:screenOrientation="portrait" >
+140-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:132:13-49
+141        </activity>
+142        <activity android:name="com.movesense.showcaseapp.BaseActivity" >
+142-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:134:9-135:20
+142-->/Users/nawalsheikh/AndroidStudioProjects/android copy/android/Showcaseapp/src/main/AndroidManifest.xml:134:19-47
+143        </activity>
+144        <activity
+144-->[com.google.android.gms:play-services-auth:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/7c3357205c0d6443051a58acd987f14a/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+145            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+145-->[com.google.android.gms:play-services-auth:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/7c3357205c0d6443051a58acd987f14a/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+146            android:excludeFromRecents="true"
+146-->[com.google.android.gms:play-services-auth:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/7c3357205c0d6443051a58acd987f14a/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+147            android:exported="false"
+147-->[com.google.android.gms:play-services-auth:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/7c3357205c0d6443051a58acd987f14a/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+148            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+148-->[com.google.android.gms:play-services-auth:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/7c3357205c0d6443051a58acd987f14a/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+149        <!--
+150            Service handling Google Sign-In user revocation. For apps that do not integrate with
+151            Google Sign-In, this service will never be started.
+152        -->
+153        <service
+153-->[com.google.android.gms:play-services-auth:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/7c3357205c0d6443051a58acd987f14a/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+154            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+154-->[com.google.android.gms:play-services-auth:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/7c3357205c0d6443051a58acd987f14a/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+155            android:exported="true"
+155-->[com.google.android.gms:play-services-auth:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/7c3357205c0d6443051a58acd987f14a/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+156            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+156-->[com.google.android.gms:play-services-auth:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/7c3357205c0d6443051a58acd987f14a/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+157
+158        <activity
+158-->[com.google.android.gms:play-services-base:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/77c2fc448e2bd0738fd67dce062b1efd/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+159            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+159-->[com.google.android.gms:play-services-base:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/77c2fc448e2bd0738fd67dce062b1efd/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+160            android:exported="false"
+160-->[com.google.android.gms:play-services-base:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/77c2fc448e2bd0738fd67dce062b1efd/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+161            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+161-->[com.google.android.gms:play-services-base:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/77c2fc448e2bd0738fd67dce062b1efd/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+162
+163        <meta-data
+163-->[com.google.android.gms:play-services-basement:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/e4658e566d936881e2cbd8cdc7da7bec/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+164            android:name="com.google.android.gms.version"
+164-->[com.google.android.gms:play-services-basement:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/e4658e566d936881e2cbd8cdc7da7bec/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+165            android:value="@integer/google_play_services_version" />
+165-->[com.google.android.gms:play-services-basement:17.0.0] /Users/nawalsheikh/.gradle/caches/transforms-2/files-2.1/e4658e566d936881e2cbd8cdc7da7bec/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+166    </application>
+167
+168</manifest>
