@@ -8,11 +8,12 @@ In our project we use the movesense sensors that calculate Accelerometere, Gyros
 Set Up: 
 
 To be able to run the code above you need to:
-1 Download the directory that has the code.
-2 Download Android studio.
-3 Import the directory into android studio.
-4 Connect your device that you want to run the app on. make sure you choose it in Device Manager in android studio.
-5 Press run and you have you app!
+
+	1 Download the directory that has the code.
+	2 Download Android studio.
+	3 Import the directory into android studio.
+	4 Connect your device that you want to run the app on. make sure you choose it in Device Manager in android studio.
+	5 Press run and you have you app!
 
 App APK:
 
@@ -22,9 +23,10 @@ All you need to do is download the apk into your phone and then press install in
 How to use the app:
 
 on the main page you have 3 options:
-1 one connection: once you press this option, it shows the many features our app can support for connecting one sensor.
-2 multi-sensors: this options allows you to connect 3 sensors all at once to give you the sunchronization ability.
-3 saved data: this option allows you to access the files with the saved data you measured through the app.
+
+	1 one connection: once you press this option, it shows the many features our app can support for connecting one sensor.
+	2 multi-sensors: this options allows you to connect 3 sensors all at once to give you the sunchronization ability.
+	3 saved data: this option allows you to access the files with the saved data you measured through the app.
 
 One Connection:
 
