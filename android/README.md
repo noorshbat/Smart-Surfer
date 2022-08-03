@@ -11,7 +11,7 @@ To be able to run the code above you need to:
 
 	1 Download the directory that has the code.
 	2 Download Android studio.
-	3 Import the directory into android studio.
+	3 Import the showcaseapp directory into android studio.
 	4 Connect your device that you want to run the app on. make sure you choose it in Device Manager in android studio.
 	5 Press run and you have you app!
 
