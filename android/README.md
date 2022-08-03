@@ -2,6 +2,7 @@
 
 code for our IoT project called Smart Surfer!
 In our project we use the movesense sensors that calculate Accelerometere, Gyroscope and many other features. We use Bluetooth to connect between the sensors and the app.
+
 ![image](https://user-images.githubusercontent.com/96077234/182577829-a6b2c43a-ffbc-4903-b744-f22a75aba246.png)
 
 
@@ -27,15 +28,24 @@ on the main page you have 3 options:
 	1 one connection: once you press this option, it shows the many features our app can support for connecting one sensor.
 	2 multi-sensors: this options allows you to connect 3 sensors all at once to give you the sunchronization ability.
 	3 saved data: this option allows you to access the files with the saved data you measured through the app.
+	
+![IMG_8333 2](https://user-images.githubusercontent.com/43606627/182587416-c855d825-8f21-4456-8117-b6adcf53b22d.jpg)
+
 
 One Connection:
 
 you can choose to measure many feature such as accelerometere, gyroscope, heart rate, tempreture, led , battery and multi-subscription. for each feature you need to press SUBSCRIBE and the measuring starts! once you press go back on your phone, the app with stop measuring and a file with all the data will be saved in Saved Data.
 
+![IMG_8332 2](https://user-images.githubusercontent.com/43606627/182587475-e664b5fc-5b42-4904-b1e0-ab796b5904cc.jpg)
+
+
 Multi-Sensors:
 
 we can connect three sensors at once and we have the option to measure the two features: acceleremetre and gyroscope.
 Once you press go back on your phone, the app will save a file for each feauture ,for the data you measured for three sensors.
+
+![IMG_8972](https://user-images.githubusercontent.com/43606627/182587516-74142a10-4bc1-4e89-bcc4-788020955beb.JPG)
+
 
 Saved Data:
 
