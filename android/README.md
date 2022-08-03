@@ -52,5 +52,7 @@ Saved Data:
 this will show you a list of all the files you created. you have the option to open the file or to delete it.
 the file names will include the sensor name, the start date, the finish date and the feauture name.
 
+![IMG_8973](https://user-images.githubusercontent.com/43606627/182588135-7c6fdbce-ace4-43b0-a602-52004ab6278b.JPG)
+
 
 Have fun using our app!
