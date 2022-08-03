@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803971657326",
+    "project_id": "smart-surfer-356306",
+    "storage_bucket": "smart-surfer-356306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803971657326:android:82955008f23e5bd7b9407f",
+        "android_client_info": {
+          "package_name": "com.movesense.showcaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803971657326-214ghpfohtij9lgofdeuo93fcmnnqjcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movesense.showcaseapp",
+            "certificate_hash": "b94546a57a8254de8fda05bf2ce7b292e2f34a52"
+          }
+        },
+        {
+          "client_id": "803971657326-kc5jkgupp5h1p1ikuebvg6tfdh1u9req.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQuEb2L1-4ZukiVN_J31u4Pp8301-WKdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803971657326-kc5jkgupp5h1p1ikuebvg6tfdh1u9req.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
